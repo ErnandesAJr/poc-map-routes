@@ -1,0 +1,3578 @@
+{
+ "geocoded_waypoints": [
+     {
+         "geocoder_status": "OK",
+         "place_id": "ChIJES8xUDNPxwcRXue1pbYmokk",
+         "types": [
+             "street_address"
+         ]
+     },
+     {
+         "geocoder_status": "OK",
+         "place_id": "ChIJZ9956KZIxwcRq9akTT1csy8",
+         "types": [
+             "street_address"
+         ]
+     }
+ ],
+ "routes": [
+     {
+         "bounds": {
+             "northeast": {
+                 "lat": -3.7577387,
+                 "lng": -38.4883529
+             },
+             "southwest": {
+                 "lat": -3.7680911,
+                 "lng": -38.5120394
+             }
+         },
+         "copyrights": "Map data ©2020",
+         "legs": [
+             {
+                 "distance": {
+                     "text": "3,9 km",
+                     "value": 3884
+                 },
+                 "duration": {
+                     "text": "14 minutos",
+                     "value": 858
+                 },
+                 "end_address": "Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341, Brasil",
+                 "end_location": {
+                     "lat": -3.7577516,
+                     "lng": -38.4883529
+                 },
+                 "start_address": "Rua Capitāo Clóvis Maia, 619 - Alto da Balança, Fortaleza - CE, 60851, Brasil",
+                 "start_location": {
+                     "lat": -3.7680911,
+                     "lng": -38.5118427
+                 },
+                 "steps": [
+                     {
+                         "distance": {
+                             "text": "43 m",
+                             "value": 43
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 5
+                         },
+                         "end_location": {
+                             "lat": -3.7680045,
+                             "lng": -38.5114648
+                         },
+                         "html_instructions": "Siga na direção <b>leste</b> na <b>Rua Capitāo Clóvis Maia</b> em direção a <b>Rua Tenente Barbosa</b>",
+                         "polyline": {
+                             "points": "p}~U~y`jFQkA"
+                         },
+                         "start_location": {
+                             "lat": -3.7680911,
+                             "lng": -38.5118427
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,4 km",
+                             "value": 367
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 73
+                         },
+                         "end_location": {
+                             "lat": -3.764754699999999,
+                             "lng": -38.5120394
+                         },
+                         "html_instructions": "Vire à <b>esquerda</b> na <b>Rua Tenente Barbosa</b>",
+                         "maneuver": "turn-left",
+                         "polyline": {
+                             "points": "~|~Urw`jFcAHaBRO@wCXI@kD\\eCX"
+                         },
+                         "start_location": {
+                             "lat": -3.7680045,
+                             "lng": -38.5114648
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,3 km",
+                             "value": 344
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 74
+                         },
+                         "end_location": {
+                             "lat": -3.7643321,
+                             "lng": -38.50901959999999
+                         },
+                         "html_instructions": "Vire à <b>direita</b> na <b>Rua Capitão Aragão</b>",
+                         "maneuver": "turn-right",
+                         "polyline": {
+                             "points": "th~Uf{`jFImAEa@E[E]Ga@EWG[ESW_CGm@Kw@EW?YBQFMHO"
+                         },
+                         "start_location": {
+                             "lat": -3.764754699999999,
+                             "lng": -38.5120394
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "1,5 km",
+                             "value": 1462
+                         },
+                         "duration": {
+                             "text": "5 minutos",
+                             "value": 282
+                         },
+                         "end_location": {
+                             "lat": -3.7677995,
+                             "lng": -38.49694059999999
+                         },
+                         "html_instructions": "Na rotatória, pegue a <b>2ª</b> saída para a <b>Av. General Murilo Borges</b>",
+                         "maneuver": "roundabout-right",
+                         "polyline": {
+                             "points": "`f~Ujh`jFDABADABADC@A@C@C@A@A@C@A?C@A?C@A@I?K?IAICICIEGGGECECECECECECEAECQSMWACEIQc@x@kID_@LkANkANkAN{@@GLk@Lk@b@yAb@uAHU?A@?pBeGrDwKxAiEv@{Bz@iCTu@DMHS"
+                         },
+                         "start_location": {
+                             "lat": -3.7643321,
+                             "lng": -38.50901959999999
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "1,1 km",
+                             "value": 1135
+                         },
+                         "duration": {
+                             "text": "5 minutos",
+                             "value": 270
+                         },
+                         "end_location": {
+                             "lat": -3.759008,
+                             "lng": -38.4917993
+                         },
+                         "html_instructions": "Vire à <b>esquerda</b> na <b>Av. Rogaciano Leite</b> (placas para <b>Parque do Cocó</b>)",
+                         "maneuver": "turn-left",
+                         "polyline": {
+                             "points": "v{~Uz|}iFe@Qc@O_A_@aA]eA]]Q_Bs@CA]O[O[QOIaC{A}@g@UO_BeAm@a@_@WUO[QQKi@WmAi@mAk@UMSOcAg@cAe@}FgCu@]MCaB{@"
+                         },
+                         "start_location": {
+                             "lat": -3.7677995,
+                             "lng": -38.49694059999999
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,4 km",
+                             "value": 357
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 60
+                         },
+                         "end_location": {
+                             "lat": -3.7586675,
+                             "lng": -38.4887286
+                         },
+                         "html_instructions": "Vire à <b>direita</b> na <b>R. Justino Café Neto</b>",
+                         "maneuver": "turn-right",
+                         "polyline": {
+                             "points": "xd}Uv||iF?Q?ICg@EqACqACm@Am@Ag@Ce@?E?G?AACAs@As@?QAS@[?CAECECCAAW?"
+                         },
+                         "start_location": {
+                             "lat": -3.759008,
+                             "lng": -38.4917993
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,1 km",
+                             "value": 104
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 16
+                         },
+                         "end_location": {
+                             "lat": -3.7577404,
+                             "lng": -38.488838
+                         },
+                         "html_instructions": "Continue para <b>R. Paulo Roberto Pinheiro</b>",
+                         "polyline": {
+                             "points": "tb}Upi|iFuCRI@I?I?E?"
+                         },
+                         "start_location": {
+                             "lat": -3.7586675,
+                             "lng": -38.4887286
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "51 m",
+                             "value": 51
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 35
+                         },
+                         "end_location": {
+                             "lat": -3.7578623,
+                             "lng": -38.4883985
+                         },
+                         "html_instructions": "Vire à <b>direita</b> na <b>Av. Washington Soares</b>",
+                         "maneuver": "turn-right",
+                         "polyline": {
+                             "points": "z||Ufj|iFVwA"
+                         },
+                         "start_location": {
+                             "lat": -3.7577404,
+                             "lng": -38.488838
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "14 m",
+                             "value": 14
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 28
+                         },
+                         "end_location": {
+                             "lat": -3.7577387,
+                             "lng": -38.4884125
+                         },
+                         "html_instructions": "Vire à <b>esquerda</b> na <b>Av. Coronel Miguel Dias</b><div style=\"font-size:0.9em\">Desça da bicicleta</div>",
+                         "maneuver": "turn-left",
+                         "polyline": {
+                             "points": "r}|Ung|iFW@"
+                         },
+                         "start_location": {
+                             "lat": -3.7578623,
+                             "lng": -38.4883985
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "7 m",
+                             "value": 7
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 15
+                         },
+                         "end_location": {
+                             "lat": -3.7577516,
+                             "lng": -38.4883529
+                         },
+                         "html_instructions": "Vire à <b>direita</b> na <b>Av. Washington Soares</b><div style=\"font-size:0.9em\">Desça da bicicleta</div><div style=\"font-size:0.9em\">O destino estará à esquerda</div>",
+                         "maneuver": "turn-right",
+                         "polyline": {
+                             "points": "z||Upg|iF@K"
+                         },
+                         "start_location": {
+                             "lat": -3.7577387,
+                             "lng": -38.4884125
+                         },
+                         "travel_mode": "BICYCLING"
+                     }
+                 ],
+                 "traffic_speed_entry": [],
+                 "via_waypoint": []
+             }
+         ],
+         "overview_polyline": {
+             "points": "p}~U~y`jFQkAcAHqBTaDZqHv@[iD[iBq@}FBk@P]RGHIJWBa@ESIQYSWMWWO[Wm@~@kJ\\wC^gCNs@p@eCn@mBvLc^pA_ENa@kE_BcBo@cBu@eB{@uHyE_C{AwEyBi@]gCmAsHeDMCaB{@?[IyBKuECu@GwDGIYAsDTE?VwAW@@K"
+         },
+         "summary": "Av. General Murilo Borges e Av. Rogaciano Leite",
+         "warnings": [
+             "Rotas de ciclismo são um recurso beta. Cuidado – Este trajeto pode ter ruas que não são adequadas para o ciclismo."
+         ],
+         "waypoint_order": [],
+         "segments": [
+             {
+                 "points": [
+                     [
+                         -3.76809,
+                         -38.51184
+                     ],
+                     [
+                         -3.768,
+                         -38.51146
+                     ],
+                     [
+                         -3.768,
+                         -38.51146
+                     ],
+                     [
+                         -3.76766,
+                         -38.51151
+                     ],
+                     [
+                         -3.76766,
+                         -38.51151
+                     ],
+                     [
+                         -3.76709,
+                         -38.51162
+                     ],
+                     [
+                         -3.76709,
+                         -38.51162
+                     ],
+                     [
+                         -3.7666850003937484,
+                         -38.51169000069743
+                     ],
+                     [
+                         -3.7666850003937484,
+                         -38.51169000069743
+                     ],
+                     [
+                         -3.76628,
+                         -38.51176
+                     ],
+                     [
+                         -3.76628,
+                         -38.51176
+                     ],
+                     [
+                         -3.7657700013222275,
+                         -38.511853335545176
+                     ],
+                     [
+                         -3.7657700013222275,
+                         -38.511853335545176
+                     ],
+                     [
+                         -3.7652600013222197,
+                         -38.511946668878515
+                     ],
+                     [
+                         -3.7652600013222197,
+                         -38.511946668878515
+                     ],
+                     [
+                         -3.76475,
+                         -38.51204
+                     ],
+                     [
+                         -3.76475,
+                         -38.51204
+                     ],
+                     [
+                         -3.7646799995868103,
+                         -38.51161500002083
+                     ],
+                     [
+                         -3.7646799995868103,
+                         -38.51161500002083
+                     ],
+                     [
+                         -3.76461,
+                         -38.51119
+                     ],
+                     [
+                         -3.76461,
+                         -38.51119
+                     ],
+                     [
+                         -3.76447,
+                         -38.51066
+                     ],
+                     [
+                         -3.76447,
+                         -38.51066
+                     ],
+                     [
+                         -3.764386665686789,
+                         -38.51023666672573
+                     ],
+                     [
+                         -3.764386665686789,
+                         -38.51023666672573
+                     ],
+                     [
+                         -3.7643033323534643,
+                         -38.50981333339239
+                     ],
+                     [
+                         -3.7643033323534643,
+                         -38.50981333339239
+                     ],
+                     [
+                         -3.76422,
+                         -38.50939
+                     ],
+                     [
+                         -3.76422,
+                         -38.50939
+                     ],
+                     [
+                         -3.76424,
+                         -38.50917
+                     ],
+                     [
+                         -3.76433,
+                         -38.50902
+                     ],
+                     [
+                         -3.76433,
+                         -38.50902
+                     ],
+                     [
+                         -3.76443,
+                         -38.50898
+                     ],
+                     [
+                         -3.76448,
+                         -38.50893
+                     ],
+                     [
+                         -3.76454,
+                         -38.50881
+                     ],
+                     [
+                         -3.76456,
+                         -38.50864
+                     ],
+                     [
+                         -3.76456,
+                         -38.50864
+                     ],
+                     [
+                         -3.76453,
+                         -38.50854
+                     ],
+                     [
+                         -3.76448,
+                         -38.50845
+                     ],
+                     [
+                         -3.76435,
+                         -38.50835
+                     ],
+                     [
+                         -3.76435,
+                         -38.50835
+                     ],
+                     [
+                         -3.76423,
+                         -38.50828
+                     ],
+                     [
+                         -3.76411,
+                         -38.50816
+                     ],
+                     [
+                         -3.76403,
+                         -38.50802
+                     ],
+                     [
+                         -3.76403,
+                         -38.50802
+                     ],
+                     [
+                         -3.76391,
+                         -38.50779
+                     ],
+                     [
+                         -3.764080001067533,
+                         -38.50750750003189
+                     ],
+                     [
+                         -3.764080001067533,
+                         -38.50750750003189
+                     ],
+                     [
+                         -3.764130001423362,
+                         -38.506995000042515
+                     ],
+                     [
+                         -3.764130001423362,
+                         -38.506995000042515
+                     ],
+                     [
+                         -3.76418000106751,
+                         -38.50648250003188
+                     ],
+                     [
+                         -3.76418000106751,
+                         -38.50648250003188
+                     ],
+                     [
+                         -3.76423,
+                         -38.50597
+                     ],
+                     [
+                         -3.76423,
+                         -38.50597
+                     ],
+                     [
+                         -3.764305000395744,
+                         -38.505590000023915
+                     ],
+                     [
+                         -3.764305000395744,
+                         -38.505590000023915
+                     ],
+                     [
+                         -3.76438,
+                         -38.50521
+                     ],
+                     [
+                         -3.76438,
+                         -38.50521
+                     ],
+                     [
+                         -3.764460000377683,
+                         -38.50487000002721
+                     ],
+                     [
+                         -3.764460000377683,
+                         -38.50487000002721
+                     ],
+                     [
+                         -3.76454,
+                         -38.50453
+                     ],
+                     [
+                         -3.76454,
+                         -38.50453
+                     ],
+                     [
+                         -3.76462,
+                         -38.50427
+                     ],
+                     [
+                         -3.764705001065326,
+                         -38.50406500011575
+                     ],
+                     [
+                         -3.764705001065326,
+                         -38.50406500011575
+                     ],
+                     [
+                         -3.76487,
+                         -38.5036
+                     ],
+                     [
+                         -3.76487,
+                         -38.5036
+                     ],
+                     [
+                         -3.76511,
+                         -38.50305
+                     ],
+                     [
+                         -3.76511,
+                         -38.50305
+                     ],
+                     [
+                         -3.7653300136900087,
+                         -38.50255200185204
+                     ],
+                     [
+                         -3.7653300136900087,
+                         -38.50255200185204
+                     ],
+                     [
+                         -3.765550024337542,
+                         -38.502054003292464
+                     ],
+                     [
+                         -3.765550024337542,
+                         -38.502054003292464
+                     ],
+                     [
+                         -3.765770031942694,
+                         -38.50155600432132
+                     ],
+                     [
+                         -3.765770031942694,
+                         -38.50155600432132
+                     ],
+                     [
+                         -3.765990036505561,
+                         -38.501058004938606
+                     ],
+                     [
+                         -3.765990036505561,
+                         -38.501058004938606
+                     ],
+                     [
+                         -3.766210038026235,
+                         -38.50056000514432
+                     ],
+                     [
+                         -3.766210038026235,
+                         -38.50056000514432
+                     ],
+                     [
+                         -3.7664300365048096,
+                         -38.500062004938506
+                     ],
+                     [
+                         -3.7664300365048096,
+                         -38.500062004938506
+                     ],
+                     [
+                         -3.76665003194138,
+                         -38.49956400432114
+                     ],
+                     [
+                         -3.76665003194138,
+                         -38.49956400432114
+                     ],
+                     [
+                         -3.7668700243360393,
+                         -38.49906600329226
+                     ],
+                     [
+                         -3.7668700243360393,
+                         -38.49906600329226
+                     ],
+                     [
+                         -3.767090013688882,
+                         -38.49856800185187
+                     ],
+                     [
+                         -3.767090013688882,
+                         -38.49856800185187
+                     ],
+                     [
+                         -3.76731,
+                         -38.49807
+                     ],
+                     [
+                         -3.76731,
+                         -38.49807
+                     ],
+                     [
+                         -3.7675150013659655,
+                         -38.497590000178675
+                     ],
+                     [
+                         -3.7675150013659655,
+                         -38.497590000178675
+                     ],
+                     [
+                         -3.76772,
+                         -38.49711
+                     ],
+                     [
+                         -3.76772,
+                         -38.49711
+                     ],
+                     [
+                         -3.7678,
+                         -38.49694
+                     ],
+                     [
+                         -3.767249997879618,
+                         -38.49678500093912
+                     ],
+                     [
+                         -3.767249997879618,
+                         -38.49678500093912
+                     ],
+                     [
+                         -3.76678,
+                         -38.49646
+                     ],
+                     [
+                         -3.76678,
+                         -38.49646
+                     ],
+                     [
+                         -3.76628,
+                         -38.49622
+                     ],
+                     [
+                         -3.76628,
+                         -38.49622
+                     ],
+                     [
+                         -3.76578,
+                         -38.49595
+                     ],
+                     [
+                         -3.76578,
+                         -38.49595
+                     ],
+                     [
+                         -3.76527,
+                         -38.49565
+                     ],
+                     [
+                         -3.76527,
+                         -38.49565
+                     ],
+                     [
+                         -3.7648824956028863,
+                         -38.495377501915094
+                     ],
+                     [
+                         -3.7648824956028863,
+                         -38.495377501915094
+                     ],
+                     [
+                         -3.764494994137207,
+                         -38.49510500255345
+                     ],
+                     [
+                         -3.764494994137207,
+                         -38.49510500255345
+                     ],
+                     [
+                         -3.764107495602924,
+                         -38.49483250191507
+                     ],
+                     [
+                         -3.764107495602924,
+                         -38.49483250191507
+                     ],
+                     [
+                         -3.76372,
+                         -38.49456
+                     ],
+                     [
+                         -3.76372,
+                         -38.49456
+                     ],
+                     [
+                         -3.763399998978422,
+                         -38.49433000043533
+                     ],
+                     [
+                         -3.763399998978422,
+                         -38.49433000043533
+                     ],
+                     [
+                         -3.76308,
+                         -38.4941
+                     ],
+                     [
+                         -3.76308,
+                         -38.4941
+                     ],
+                     [
+                         -3.7625399977139815,
+                         -38.49379500123967
+                     ],
+                     [
+                         -3.7625399977139815,
+                         -38.49379500123967
+                     ],
+                     [
+                         -3.762,
+                         -38.49349
+                     ],
+                     [
+                         -3.762,
+                         -38.49349
+                     ],
+                     [
+                         -3.76179,
+                         -38.49334
+                     ],
+                     [
+                         -3.7615549983323646,
+                         -38.49322000084186
+                     ],
+                     [
+                         -3.7615549983323646,
+                         -38.49322000084186
+                     ],
+                     [
+                         -3.76111,
+                         -38.49295
+                     ],
+                     [
+                         -3.76111,
+                         -38.49295
+                     ],
+                     [
+                         -3.7605966627243332,
+                         -38.49267333557384
+                     ],
+                     [
+                         -3.7605966627243332,
+                         -38.49267333557384
+                     ],
+                     [
+                         -3.7600833293910125,
+                         -38.492396668907155
+                     ],
+                     [
+                         -3.7600833293910125,
+                         -38.492396668907155
+                     ],
+                     [
+                         -3.75957,
+                         -38.49212
+                     ],
+                     [
+                         -3.75957,
+                         -38.49212
+                     ],
+                     [
+                         -3.7595,
+                         -38.4921
+                     ],
+                     [
+                         -3.75901,
+                         -38.4918
+                     ],
+                     [
+                         -3.75901,
+                         -38.4918
+                     ],
+                     [
+                         -3.75901,
+                         -38.49166
+                     ],
+                     [
+                         -3.758984999869887,
+                         -38.49142500000265
+                     ],
+                     [
+                         -3.758984999869887,
+                         -38.49142500000265
+                     ],
+                     [
+                         -3.75896,
+                         -38.49105
+                     ],
+                     [
+                         -3.75896,
+                         -38.49105
+                     ],
+                     [
+                         -3.758929999777254,
+                         -38.49051500000383
+                     ],
+                     [
+                         -3.758929999777254,
+                         -38.49051500000383
+                     ],
+                     [
+                         -3.7589,
+                         -38.48998
+                     ],
+                     [
+                         -3.7589,
+                         -38.48998
+                     ],
+                     [
+                         -3.75888,
+                         -38.48971
+                     ],
+                     [
+                         -3.75888,
+                         -38.48971
+                     ],
+                     [
+                         -3.758859999872326,
+                         -38.48925000000171
+                     ],
+                     [
+                         -3.758859999872326,
+                         -38.48925000000171
+                     ],
+                     [
+                         -3.75884,
+                         -38.48879
+                     ],
+                     [
+                         -3.75884,
+                         -38.48879
+                     ],
+                     [
+                         -3.7588,
+                         -38.48874
+                     ],
+                     [
+                         -3.75867,
+                         -38.48873
+                     ],
+                     [
+                         -3.75830500018561,
+                         -38.48881500121677
+                     ],
+                     [
+                         -3.75830500018561,
+                         -38.48881500121677
+                     ],
+                     [
+                         -3.75777,
+                         -38.48884
+                     ],
+                     [
+                         -3.75777,
+                         -38.48884
+                     ],
+                     [
+                         -3.75774,
+                         -38.48884
+                     ],
+                     [
+                         -3.75786,
+                         -38.4884
+                     ],
+                     [
+                         -3.75774,
+                         -38.48841
+                     ],
+                     [
+                         -3.75775,
+                         -38.48835
+                     ]
+                 ],
+                 "polyline": {
+                     "points": "p}~U~y`jFQkA??cAH??qBT??oAL??qAL??eBP??eBR??eBP??MsA??MuA??[iB??OsA??QuA??OsA??Bk@P]??RGHIJWBa@??ESIQYS??WMWWO[??Wm@`@w@??HeB??HgB??HeB??NkA??LkA??NcA??NcA??Ns@Pg@??^}A??n@mB??j@cB??j@cB??j@aB??j@cB??j@cB??j@cB??j@cB??j@aB??j@cB??j@cB??h@_B??f@_B??Na@mB]??}AaA??cBo@??cBu@??eB{@??mAu@??mAu@??kAw@??mAu@??_Am@??_Am@??kB{@??kB}@??i@]o@W??wAu@??eBw@??gBu@??eBw@??MCaB{@???[Em@??CkA??EiB??EkB??Cu@??C{A??C{A??GIYAgAP??kBB??E?VwAW@@K"
+                 },
+                 "safeIndex": 0,
+                 "area_critica": 0,
+                 "ocorrencia_perigosa": 0,
+                 "fluxo_ciclista": 0,
+                 "luminosidade": 0,
+                 "condicao_via": 0
+             }
+         ],
+         "safeIndexDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "area_criticaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "ocorrencia_perigosaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "fluxo_ciclistaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "luminosidadeDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "condicao_viaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "safeIndex": 0
+     },
+     {
+         "bounds": {
+             "northeast": {
+                 "lat": -3.7577516,
+                 "lng": -38.4871916
+             },
+             "southwest": {
+                 "lat": -3.770873,
+                 "lng": -38.5120394
+             }
+         },
+         "copyrights": "Map data ©2020",
+         "legs": [
+             {
+                 "distance": {
+                     "text": "4,8 km",
+                     "value": 4772
+                 },
+                 "duration": {
+                     "text": "16 minutos",
+                     "value": 966
+                 },
+                 "end_address": "Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341, Brasil",
+                 "end_location": {
+                     "lat": -3.7577516,
+                     "lng": -38.4883529
+                 },
+                 "start_address": "Rua Capitāo Clóvis Maia, 619 - Alto da Balança, Fortaleza - CE, 60851, Brasil",
+                 "start_location": {
+                     "lat": -3.7680911,
+                     "lng": -38.5118427
+                 },
+                 "steps": [
+                     {
+                         "distance": {
+                             "text": "43 m",
+                             "value": 43
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 5
+                         },
+                         "end_location": {
+                             "lat": -3.7680045,
+                             "lng": -38.5114648
+                         },
+                         "html_instructions": "Siga na direção <b>leste</b> na <b>Rua Capitāo Clóvis Maia</b> em direção a <b>Rua Tenente Barbosa</b>",
+                         "polyline": {
+                             "points": "p}~U~y`jFQkA"
+                         },
+                         "start_location": {
+                             "lat": -3.7680911,
+                             "lng": -38.5118427
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,4 km",
+                             "value": 367
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 73
+                         },
+                         "end_location": {
+                             "lat": -3.764754699999999,
+                             "lng": -38.5120394
+                         },
+                         "html_instructions": "Vire à <b>esquerda</b> na <b>Rua Tenente Barbosa</b>",
+                         "maneuver": "turn-left",
+                         "polyline": {
+                             "points": "~|~Urw`jFcAHaBRO@wCXI@kD\\eCX"
+                         },
+                         "start_location": {
+                             "lat": -3.7680045,
+                             "lng": -38.5114648
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,3 km",
+                             "value": 344
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 74
+                         },
+                         "end_location": {
+                             "lat": -3.7643321,
+                             "lng": -38.50901959999999
+                         },
+                         "html_instructions": "Vire à <b>direita</b> na <b>Rua Capitão Aragão</b>",
+                         "maneuver": "turn-right",
+                         "polyline": {
+                             "points": "th~Uf{`jFImAEa@E[E]Ga@EWG[ESW_CGm@Kw@EW?YBQFMHO"
+                         },
+                         "start_location": {
+                             "lat": -3.764754699999999,
+                             "lng": -38.5120394
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "1,5 km",
+                             "value": 1462
+                         },
+                         "duration": {
+                             "text": "5 minutos",
+                             "value": 282
+                         },
+                         "end_location": {
+                             "lat": -3.7677995,
+                             "lng": -38.49694059999999
+                         },
+                         "html_instructions": "Na rotatória, pegue a <b>2ª</b> saída para a <b>Av. General Murilo Borges</b>",
+                         "maneuver": "roundabout-right",
+                         "polyline": {
+                             "points": "`f~Ujh`jFDABADABADC@A@C@C@A@A@C@A?C@A?C@A@I?K?IAICICIEGGGECECECECECECEAECQSMWACEIQc@x@kID_@LkANkANkAN{@@GLk@Lk@b@yAb@uAHU?A@?pBeGrDwKxAiEv@{Bz@iCTu@DMHS"
+                         },
+                         "start_location": {
+                             "lat": -3.7643321,
+                             "lng": -38.50901959999999
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,6 km",
+                             "value": 600
+                         },
+                         "duration": {
+                             "text": "3 minutos",
+                             "value": 166
+                         },
+                         "end_location": {
+                             "lat": -3.7700191,
+                             "lng": -38.4920153
+                         },
+                         "html_instructions": "Continue para <b>Rua Dr. Thompson Bulcão</b>",
+                         "polyline": {
+                             "points": "v{~Uz|}iFXq@JUV}@J[J[J[H]Rg@Ri@L]\\aADKBK@ENa@L]N_@FQDODMDML_@Na@HUHYBE@EN_@L_@HYJYz@_C"
+                         },
+                         "start_location": {
+                             "lat": -3.7677995,
+                             "lng": -38.49694059999999
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,5 km",
+                             "value": 470
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 70
+                         },
+                         "end_location": {
+                             "lat": -3.770873,
+                             "lng": -38.4879004
+                         },
+                         "html_instructions": "Continue para <b>Av. Almirante Maximiniano da Fonseca</b>",
+                         "polyline": {
+                             "points": "ri_Vb~|iF@S@c@B]?e@C]AK?M?M?K@M?M@MBM@KBM@MDKZiBBGNw@BMTmABKP{@?Ad@}BDU@EBS"
+                         },
+                         "start_location": {
+                             "lat": -3.7700191,
+                             "lng": -38.4920153
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "1,5 km",
+                             "value": 1479
+                         },
+                         "duration": {
+                             "text": "4 minutos",
+                             "value": 263
+                         },
+                         "end_location": {
+                             "lat": -3.7577647,
+                             "lng": -38.4882927
+                         },
+                         "html_instructions": "Vire à <b>esquerda</b> na <b>Av. Coronel Miguel Dias</b><div style=\"font-size:0.9em\">Passe por 1 rotatória</div>",
+                         "maneuver": "turn-left",
+                         "polyline": {
+                             "points": "|n_Vjd|iFQGOEcCq@cEmAM?I?I@oCFqDPS@gEPQ@i@@gAF_@@eBHaBFi@Bm@Bk@DA?CAC?E?C?C?C?A?C?C@A?C?C@A@A?g@B_BHqCNkAFm@BO@eAFgAD{@DG@c@Be@BeAFgAF_ADaADaAFc@B_@DY@"
+                         },
+                         "start_location": {
+                             "lat": -3.770873,
+                             "lng": -38.4879004
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "7 m",
+                             "value": 7
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 33
+                         },
+                         "end_location": {
+                             "lat": -3.7577516,
+                             "lng": -38.4883529
+                         },
+                         "html_instructions": "Vire à <b>esquerda</b> na <b>Av. Washington Soares</b><div style=\"font-size:0.9em\">O destino estará à direita</div>",
+                         "maneuver": "turn-left",
+                         "polyline": {
+                             "points": "~||Uxf|iFAJ"
+                         },
+                         "start_location": {
+                             "lat": -3.7577647,
+                             "lng": -38.4882927
+                         },
+                         "travel_mode": "BICYCLING"
+                     }
+                 ],
+                 "traffic_speed_entry": [],
+                 "via_waypoint": []
+             }
+         ],
+         "overview_polyline": {
+             "points": "p}~U~y`jFQkAcAHqBTaDZqHv@[iD[iBq@}FBk@P]RGHIJWBa@ESIQYSWMWWO[Wm@~@kJ\\wC^gCNs@p@eCn@mBvLc^pA_ENa@d@gAb@yAt@}BdAuCfAaDlAkD~AsEBw@BcAEeABu@Ju@t@uD|A_IBSQGsCw@cEmAM?S@oCFqDP{ERcDL_HXu@B[@KBi@BeQz@cLl@cAHY@AJ"
+         },
+         "summary": "Av. General Murilo Borges e Av. Coronel Miguel Dias",
+         "warnings": [
+             "Rotas de ciclismo são um recurso beta. Cuidado – Este trajeto pode ter ruas que não são adequadas para o ciclismo."
+         ],
+         "waypoint_order": [],
+         "segments": [
+             {
+                 "points": [
+                     [
+                         -3.76809,
+                         -38.51184
+                     ],
+                     [
+                         -3.768,
+                         -38.51146
+                     ],
+                     [
+                         -3.768,
+                         -38.51146
+                     ],
+                     [
+                         -3.76766,
+                         -38.51151
+                     ],
+                     [
+                         -3.76766,
+                         -38.51151
+                     ],
+                     [
+                         -3.76709,
+                         -38.51162
+                     ],
+                     [
+                         -3.76709,
+                         -38.51162
+                     ],
+                     [
+                         -3.7666850003937484,
+                         -38.51169000069743
+                     ],
+                     [
+                         -3.7666850003937484,
+                         -38.51169000069743
+                     ],
+                     [
+                         -3.76628,
+                         -38.51176
+                     ],
+                     [
+                         -3.76628,
+                         -38.51176
+                     ],
+                     [
+                         -3.7657700013222275,
+                         -38.511853335545176
+                     ],
+                     [
+                         -3.7657700013222275,
+                         -38.511853335545176
+                     ],
+                     [
+                         -3.7652600013222197,
+                         -38.511946668878515
+                     ],
+                     [
+                         -3.7652600013222197,
+                         -38.511946668878515
+                     ],
+                     [
+                         -3.76475,
+                         -38.51204
+                     ],
+                     [
+                         -3.76475,
+                         -38.51204
+                     ],
+                     [
+                         -3.7646799995868103,
+                         -38.51161500002083
+                     ],
+                     [
+                         -3.7646799995868103,
+                         -38.51161500002083
+                     ],
+                     [
+                         -3.76461,
+                         -38.51119
+                     ],
+                     [
+                         -3.76461,
+                         -38.51119
+                     ],
+                     [
+                         -3.76447,
+                         -38.51066
+                     ],
+                     [
+                         -3.76447,
+                         -38.51066
+                     ],
+                     [
+                         -3.764386665686789,
+                         -38.51023666672573
+                     ],
+                     [
+                         -3.764386665686789,
+                         -38.51023666672573
+                     ],
+                     [
+                         -3.7643033323534643,
+                         -38.50981333339239
+                     ],
+                     [
+                         -3.7643033323534643,
+                         -38.50981333339239
+                     ],
+                     [
+                         -3.76422,
+                         -38.50939
+                     ],
+                     [
+                         -3.76422,
+                         -38.50939
+                     ],
+                     [
+                         -3.76424,
+                         -38.50917
+                     ],
+                     [
+                         -3.76433,
+                         -38.50902
+                     ],
+                     [
+                         -3.76433,
+                         -38.50902
+                     ],
+                     [
+                         -3.76443,
+                         -38.50898
+                     ],
+                     [
+                         -3.76448,
+                         -38.50893
+                     ],
+                     [
+                         -3.76454,
+                         -38.50881
+                     ],
+                     [
+                         -3.76456,
+                         -38.50864
+                     ],
+                     [
+                         -3.76456,
+                         -38.50864
+                     ],
+                     [
+                         -3.76453,
+                         -38.50854
+                     ],
+                     [
+                         -3.76448,
+                         -38.50845
+                     ],
+                     [
+                         -3.76435,
+                         -38.50835
+                     ],
+                     [
+                         -3.76435,
+                         -38.50835
+                     ],
+                     [
+                         -3.76423,
+                         -38.50828
+                     ],
+                     [
+                         -3.76411,
+                         -38.50816
+                     ],
+                     [
+                         -3.76403,
+                         -38.50802
+                     ],
+                     [
+                         -3.76403,
+                         -38.50802
+                     ],
+                     [
+                         -3.76391,
+                         -38.50779
+                     ],
+                     [
+                         -3.764080001067533,
+                         -38.50750750003189
+                     ],
+                     [
+                         -3.764080001067533,
+                         -38.50750750003189
+                     ],
+                     [
+                         -3.764130001423362,
+                         -38.506995000042515
+                     ],
+                     [
+                         -3.764130001423362,
+                         -38.506995000042515
+                     ],
+                     [
+                         -3.76418000106751,
+                         -38.50648250003188
+                     ],
+                     [
+                         -3.76418000106751,
+                         -38.50648250003188
+                     ],
+                     [
+                         -3.76423,
+                         -38.50597
+                     ],
+                     [
+                         -3.76423,
+                         -38.50597
+                     ],
+                     [
+                         -3.764305000395744,
+                         -38.505590000023915
+                     ],
+                     [
+                         -3.764305000395744,
+                         -38.505590000023915
+                     ],
+                     [
+                         -3.76438,
+                         -38.50521
+                     ],
+                     [
+                         -3.76438,
+                         -38.50521
+                     ],
+                     [
+                         -3.764460000377683,
+                         -38.50487000002721
+                     ],
+                     [
+                         -3.764460000377683,
+                         -38.50487000002721
+                     ],
+                     [
+                         -3.76454,
+                         -38.50453
+                     ],
+                     [
+                         -3.76454,
+                         -38.50453
+                     ],
+                     [
+                         -3.76462,
+                         -38.50427
+                     ],
+                     [
+                         -3.764705001065326,
+                         -38.50406500011575
+                     ],
+                     [
+                         -3.764705001065326,
+                         -38.50406500011575
+                     ],
+                     [
+                         -3.76487,
+                         -38.5036
+                     ],
+                     [
+                         -3.76487,
+                         -38.5036
+                     ],
+                     [
+                         -3.76511,
+                         -38.50305
+                     ],
+                     [
+                         -3.76511,
+                         -38.50305
+                     ],
+                     [
+                         -3.7653300136900087,
+                         -38.50255200185204
+                     ],
+                     [
+                         -3.7653300136900087,
+                         -38.50255200185204
+                     ],
+                     [
+                         -3.765550024337542,
+                         -38.502054003292464
+                     ],
+                     [
+                         -3.765550024337542,
+                         -38.502054003292464
+                     ],
+                     [
+                         -3.765770031942694,
+                         -38.50155600432132
+                     ],
+                     [
+                         -3.765770031942694,
+                         -38.50155600432132
+                     ],
+                     [
+                         -3.765990036505561,
+                         -38.501058004938606
+                     ],
+                     [
+                         -3.765990036505561,
+                         -38.501058004938606
+                     ],
+                     [
+                         -3.766210038026235,
+                         -38.50056000514432
+                     ],
+                     [
+                         -3.766210038026235,
+                         -38.50056000514432
+                     ],
+                     [
+                         -3.7664300365048096,
+                         -38.500062004938506
+                     ],
+                     [
+                         -3.7664300365048096,
+                         -38.500062004938506
+                     ],
+                     [
+                         -3.76665003194138,
+                         -38.49956400432114
+                     ],
+                     [
+                         -3.76665003194138,
+                         -38.49956400432114
+                     ],
+                     [
+                         -3.7668700243360393,
+                         -38.49906600329226
+                     ],
+                     [
+                         -3.7668700243360393,
+                         -38.49906600329226
+                     ],
+                     [
+                         -3.767090013688882,
+                         -38.49856800185187
+                     ],
+                     [
+                         -3.767090013688882,
+                         -38.49856800185187
+                     ],
+                     [
+                         -3.76731,
+                         -38.49807
+                     ],
+                     [
+                         -3.76731,
+                         -38.49807
+                     ],
+                     [
+                         -3.7675150013659655,
+                         -38.497590000178675
+                     ],
+                     [
+                         -3.7675150013659655,
+                         -38.497590000178675
+                     ],
+                     [
+                         -3.76772,
+                         -38.49711
+                     ],
+                     [
+                         -3.76772,
+                         -38.49711
+                     ],
+                     [
+                         -3.7678,
+                         -38.49694
+                     ],
+                     [
+                         -3.76799,
+                         -38.49658
+                     ],
+                     [
+                         -3.76799,
+                         -38.49658
+                     ],
+                     [
+                         -3.76817,
+                         -38.49613
+                     ],
+                     [
+                         -3.76817,
+                         -38.49613
+                     ],
+                     [
+                         -3.768305000590284,
+                         -38.495815000077485
+                     ],
+                     [
+                         -3.768305000590284,
+                         -38.495815000077485
+                     ],
+                     [
+                         -3.76844,
+                         -38.4955
+                     ],
+                     [
+                         -3.76844,
+                         -38.4955
+                     ],
+                     [
+                         -3.7686150009109123,
+                         -38.49512500013019
+                     ],
+                     [
+                         -3.7686150009109123,
+                         -38.49512500013019
+                     ],
+                     [
+                         -3.76879,
+                         -38.49475
+                     ],
+                     [
+                         -3.76879,
+                         -38.49475
+                     ],
+                     [
+                         -3.7689700010118634,
+                         -38.49434500013775
+                     ],
+                     [
+                         -3.7689700010118634,
+                         -38.49434500013775
+                     ],
+                     [
+                         -3.76915,
+                         -38.49394
+                     ],
+                     [
+                         -3.76915,
+                         -38.49394
+                     ],
+                     [
+                         -3.7693450011638165,
+                         -38.49351000016165
+                     ],
+                     [
+                         -3.7693450011638165,
+                         -38.49351000016165
+                     ],
+                     [
+                         -3.76954,
+                         -38.49308
+                     ],
+                     [
+                         -3.76954,
+                         -38.49308
+                     ],
+                     [
+                         -3.76970000156929,
+                         -38.49272666688434
+                     ],
+                     [
+                         -3.76970000156929,
+                         -38.49272666688434
+                     ],
+                     [
+                         -3.7698600015692776,
+                         -38.492373333550994
+                     ],
+                     [
+                         -3.7698600015692776,
+                         -38.492373333550994
+                     ],
+                     [
+                         -3.77002,
+                         -38.49202
+                     ],
+                     [
+                         -3.77002,
+                         -38.49202
+                     ],
+                     [
+                         -3.77004,
+                         -38.49174
+                     ],
+                     [
+                         -3.77004,
+                         -38.49174
+                     ],
+                     [
+                         -3.77006,
+                         -38.4914
+                     ],
+                     [
+                         -3.77006,
+                         -38.4914
+                     ],
+                     [
+                         -3.77003,
+                         -38.49105
+                     ],
+                     [
+                         -3.77003,
+                         -38.49105
+                     ],
+                     [
+                         -3.77005,
+                         -38.49078
+                     ],
+                     [
+                         -3.77005,
+                         -38.49078
+                     ],
+                     [
+                         -3.77011,
+                         -38.49051
+                     ],
+                     [
+                         -3.77011,
+                         -38.49051
+                     ],
+                     [
+                         -3.7702450008524573,
+                         -38.490055000077476
+                     ],
+                     [
+                         -3.7702450008524573,
+                         -38.490055000077476
+                     ],
+                     [
+                         -3.77038,
+                         -38.4896
+                     ],
+                     [
+                         -3.77038,
+                         -38.4896
+                     ],
+                     [
+                         -3.7704975019567315,
+                         -38.48920000017608
+                     ],
+                     [
+                         -3.7704975019567315,
+                         -38.48920000017608
+                     ],
+                     [
+                         -3.770615002608953,
+                         -38.48880000023477
+                     ],
+                     [
+                         -3.770615002608953,
+                         -38.48880000023477
+                     ],
+                     [
+                         -3.770732501956698,
+                         -38.48840000017608
+                     ],
+                     [
+                         -3.770732501956698,
+                         -38.48840000017608
+                     ],
+                     [
+                         -3.77085,
+                         -38.488
+                     ],
+                     [
+                         -3.77085,
+                         -38.488
+                     ],
+                     [
+                         -3.77087,
+                         -38.4879
+                     ],
+                     [
+                         -3.77078,
+                         -38.48786
+                     ],
+                     [
+                         -3.7704449988197686,
+                         -38.487790000697274
+                     ],
+                     [
+                         -3.7704449988197686,
+                         -38.487790000697274
+                     ],
+                     [
+                         -3.77004,
+                         -38.48758
+                     ],
+                     [
+                         -3.77004,
+                         -38.48758
+                     ],
+                     [
+                         -3.7695499986740795,
+                         -38.48738500102067
+                     ],
+                     [
+                         -3.7695499986740795,
+                         -38.48738500102067
+                     ],
+                     [
+                         -3.76906,
+                         -38.48719
+                     ],
+                     [
+                         -3.76906,
+                         -38.48719
+                     ],
+                     [
+                         -3.76899,
+                         -38.48719
+                     ],
+                     [
+                         -3.76889,
+                         -38.4872
+                     ],
+                     [
+                         -3.7686150001543774,
+                         -38.487215000841815
+                     ],
+                     [
+                         -3.7686150001543774,
+                         -38.487215000841815
+                     ],
+                     [
+                         -3.76817,
+                         -38.48724
+                     ],
+                     [
+                         -3.76817,
+                         -38.48724
+                     ],
+                     [
+                         -3.7677250002778795,
+                         -38.487285000841815
+                     ],
+                     [
+                         -3.7677250002778795,
+                         -38.487285000841815
+                     ],
+                     [
+                         -3.76728,
+                         -38.48733
+                     ],
+                     [
+                         -3.76728,
+                         -38.48733
+                     ],
+                     [
+                         -3.7667300003816093,
+                         -38.487380001285956
+                     ],
+                     [
+                         -3.7667300003816093,
+                         -38.487380001285956
+                     ],
+                     [
+                         -3.76618,
+                         -38.48743
+                     ],
+                     [
+                         -3.76618,
+                         -38.48743
+                     ],
+                     [
+                         -3.7657700001991308,
+                         -38.48746500071461
+                     ],
+                     [
+                         -3.7657700001991308,
+                         -38.48746500071461
+                     ],
+                     [
+                         -3.76536,
+                         -38.4875
+                     ],
+                     [
+                         -3.76536,
+                         -38.4875
+                     ],
+                     [
+                         -3.7648800005772785,
+                         -38.48754333529222
+                     ],
+                     [
+                         -3.7648800005772785,
+                         -38.48754333529222
+                     ],
+                     [
+                         -3.7644000005772704,
+                         -38.48758666862556
+                     ],
+                     [
+                         -3.7644000005772704,
+                         -38.48758666862556
+                     ],
+                     [
+                         -3.76392,
+                         -38.48763
+                     ],
+                     [
+                         -3.76392,
+                         -38.48763
+                     ],
+                     [
+                         -3.76365,
+                         -38.48765
+                     ],
+                     [
+                         -3.76351,
+                         -38.48766
+                     ],
+                     [
+                         -3.76351,
+                         -38.48766
+                     ],
+                     [
+                         -3.76345,
+                         -38.48768
+                     ],
+                     [
+                         -3.76324,
+                         -38.4877
+                     ],
+                     [
+                         -3.7628740024006526,
+                         -38.48772800687817
+                     ],
+                     [
+                         -3.7628740024006526,
+                         -38.48772800687817
+                     ],
+                     [
+                         -3.7622380036009235,
+                         -38.48779601031725
+                     ],
+                     [
+                         -3.7622380036009235,
+                         -38.48779601031725
+                     ],
+                     [
+                         -3.7616020036008675,
+                         -38.48786401031727
+                     ],
+                     [
+                         -3.7616020036008675,
+                         -38.48786401031727
+                     ],
+                     [
+                         -3.7609660024005414,
+                         -38.48793200687819
+                     ],
+                     [
+                         -3.7609660024005414,
+                         -38.48793200687819
+                     ],
+                     [
+                         -3.76033,
+                         -38.488
+                     ],
+                     [
+                         -3.76033,
+                         -38.488
+                     ],
+                     [
+                         -3.7598050012567574,
+                         -38.488057503515115
+                     ],
+                     [
+                         -3.7598050012567574,
+                         -38.488057503515115
+                     ],
+                     [
+                         -3.7592800016756556,
+                         -38.48811500468682
+                     ],
+                     [
+                         -3.7592800016756556,
+                         -38.48811500468682
+                     ],
+                     [
+                         -3.758755001256726,
+                         -38.48817250351512
+                     ],
+                     [
+                         -3.758755001256726,
+                         -38.48817250351512
+                     ],
+                     [
+                         -3.75823,
+                         -38.48823
+                     ],
+                     [
+                         -3.75823,
+                         -38.48823
+                     ],
+                     [
+                         -3.75789,
+                         -38.48828
+                     ],
+                     [
+                         -3.75776,
+                         -38.48829
+                     ],
+                     [
+                         -3.75775,
+                         -38.48835
+                     ]
+                 ],
+                 "polyline": {
+                     "points": "p}~U~y`jFQkA??cAH??qBT??oAL??qAL??eBP??eBR??eBP??MsA??MuA??[iB??OsA??QuA??OsA??Bk@P]??RGHIJWBa@??ESIQYS??WMWWO[??Wm@`@w@??HeB??HgB??HeB??NkA??LkA??NcA??NcA??Ns@Pg@??^}A??n@mB??j@cB??j@cB??j@aB??j@cB??j@cB??j@cB??j@cB??j@aB??j@cB??j@cB??h@_B??f@_B??Na@d@gA??b@yA??Z}@??X_A??b@iA??`@kA??b@oA??b@qA??f@uA??d@uA??^eA??^gA??^eA??Bw@??BcA??EeA??Bu@??Ju@??ZyA??X{A??VoA??VoA??ToA??VoA??BSQGcAM??oAi@??aBe@??aBg@??M?S@u@B??yAB??wAH??yAF??mBH??mBH??qAF??qAD??_BF??_BH??_BF??u@B[@??KBi@BiAD??}BL??_CJ??}BL??_CL??gBJ??iBJ??gBH??iBJ??cAHY@AJ"
+                 },
+                 "safeIndex": 0,
+                 "area_critica": 0,
+                 "ocorrencia_perigosa": 0,
+                 "fluxo_ciclista": 0,
+                 "luminosidade": 0,
+                 "condicao_via": 0
+             }
+         ],
+         "safeIndexDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "area_criticaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "ocorrencia_perigosaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "fluxo_ciclistaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "luminosidadeDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "condicao_viaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "safeIndex": 0
+     },
+     {
+         "bounds": {
+             "northeast": {
+                 "lat": -3.7511025,
+                 "lng": -38.4883529
+             },
+             "southwest": {
+                 "lat": -3.7680911,
+                 "lng": -38.5120394
+             }
+         },
+         "copyrights": "Map data ©2020",
+         "legs": [
+             {
+                 "distance": {
+                     "text": "5,0 km",
+                     "value": 5013
+                 },
+                 "duration": {
+                     "text": "17 minutos",
+                     "value": 1004
+                 },
+                 "end_address": "Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE, 60811-341, Brasil",
+                 "end_location": {
+                     "lat": -3.7577516,
+                     "lng": -38.4883529
+                 },
+                 "start_address": "Rua Capitāo Clóvis Maia, 619 - Alto da Balança, Fortaleza - CE, 60851, Brasil",
+                 "start_location": {
+                     "lat": -3.7680911,
+                     "lng": -38.5118427
+                 },
+                 "steps": [
+                     {
+                         "distance": {
+                             "text": "43 m",
+                             "value": 43
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 5
+                         },
+                         "end_location": {
+                             "lat": -3.7680045,
+                             "lng": -38.5114648
+                         },
+                         "html_instructions": "Siga na direção <b>leste</b> na <b>Rua Capitāo Clóvis Maia</b> em direção a <b>Rua Tenente Barbosa</b>",
+                         "polyline": {
+                             "points": "p}~U~y`jFQkA"
+                         },
+                         "start_location": {
+                             "lat": -3.7680911,
+                             "lng": -38.5118427
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,4 km",
+                             "value": 367
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 73
+                         },
+                         "end_location": {
+                             "lat": -3.764754699999999,
+                             "lng": -38.5120394
+                         },
+                         "html_instructions": "Vire à <b>esquerda</b> na <b>Rua Tenente Barbosa</b>",
+                         "maneuver": "turn-left",
+                         "polyline": {
+                             "points": "~|~Urw`jFcAHaBRO@wCXI@kD\\eCX"
+                         },
+                         "start_location": {
+                             "lat": -3.7680045,
+                             "lng": -38.5114648
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,3 km",
+                             "value": 344
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 74
+                         },
+                         "end_location": {
+                             "lat": -3.7643321,
+                             "lng": -38.50901959999999
+                         },
+                         "html_instructions": "Vire à <b>direita</b> na <b>Rua Capitão Aragão</b>",
+                         "maneuver": "turn-right",
+                         "polyline": {
+                             "points": "th~Uf{`jFImAEa@E[E]Ga@EWG[ESW_CGm@Kw@EW?YBQFMHO"
+                         },
+                         "start_location": {
+                             "lat": -3.764754699999999,
+                             "lng": -38.5120394
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,4 km",
+                             "value": 430
+                         },
+                         "duration": {
+                             "text": "2 minutos",
+                             "value": 99
+                         },
+                         "end_location": {
+                             "lat": -3.7616397,
+                             "lng": -38.5075116
+                         },
+                         "html_instructions": "Na rotatória, pegue a <b>3ª</b> saída para a <b>Viaduto Patriolino Ribeiro de Souza</b>",
+                         "maneuver": "roundabout-right",
+                         "polyline": {
+                             "points": "`f~Ujh`jFDABADABADC@A@C@C@A@A@C@A?C@A?C@A@I?K?IAICICIEGGGECECECECECECEAECIAI?I?I@G@IDGBEFm@AK@C?C?K?G?EAGAUGWGSGEAUGk@M_@I_@KEAMCOEWIKEGCMIIIGGCCACAEAECECCCCCA"
+                         },
+                         "start_location": {
+                             "lat": -3.7643321,
+                             "lng": -38.50901959999999
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,8 km",
+                             "value": 791
+                         },
+                         "duration": {
+                             "text": "3 minutos",
+                             "value": 160
+                         },
+                         "end_location": {
+                             "lat": -3.7565087,
+                             "lng": -38.5044157
+                         },
+                         "html_instructions": "Curva suave à <b>direita</b> na <b>Av. Governador Raul Barbosa</b>",
+                         "maneuver": "turn-slight-right",
+                         "polyline": {
+                             "points": "fu}U|~_jFEa@k@iFAIAIAIAKCIEMCOGMEOEMEICGEIEGEGEIGGIKKKIKKKMIKKKIIEIGKEIEIEIEKCKEMEKCc@IMCKAOAUAk@AE?s@AgB?C?oAAq@?{A?sA?qA@"
+                         },
+                         "start_location": {
+                             "lat": -3.7616397,
+                             "lng": -38.5075116
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,9 km",
+                             "value": 865
+                         },
+                         "duration": {
+                             "text": "3 minutos",
+                             "value": 163
+                         },
+                         "end_location": {
+                             "lat": -3.7518643,
+                             "lng": -38.4986532
+                         },
+                         "html_instructions": "Curva suave à <b>direita</b> na <b>Av. Almirante Henrique Sabóia</b>",
+                         "maneuver": "turn-slight-right",
+                         "polyline": {
+                             "points": "du|Urk_jFKIICg@Im@G_@I[IOEICYMYMSKECWOYSSQUSIISUUYQSQWwCwD{@iAy@iAACGIMSWe@Wi@Qa@Qa@IWGUI_@EQCOAIEQGa@QeA[qB"
+                         },
+                         "start_location": {
+                             "lat": -3.7565087,
+                             "lng": -38.5044157
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,3 km",
+                             "value": 252
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 37
+                         },
+                         "end_location": {
+                             "lat": -3.7528472,
+                             "lng": -38.4970653
+                         },
+                         "html_instructions": "Vire à <b>direita</b> na <b>R. Santa Esmeralda</b>",
+                         "maneuver": "turn-right",
+                         "polyline": {
+                             "points": "bx{Upg~iFFGDAFCFAb@IZGPGl@QDCDEBE?A?G?SC]Io@Ea@AS?M?I@EBIHM\\W"
+                         },
+                         "start_location": {
+                             "lat": -3.7518643,
+                             "lng": -38.4986532
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,8 km",
+                             "value": 787
+                         },
+                         "duration": {
+                             "text": "3 minutos",
+                             "value": 154
+                         },
+                         "end_location": {
+                             "lat": -3.7512135,
+                             "lng": -38.49191810000001
+                         },
+                         "html_instructions": "Curva suave à <b>direita</b> na <b>R. Santa Teresinha do Menino Jesus e da Sagrada Face</b>",
+                         "maneuver": "turn-slight-right",
+                         "polyline": {
+                             "points": "h~{Ut}}iF^CXAtBQHA@?BA@AB?@ABC@A@A@A@C@A@C@C?A?A@A?E?A?CI}@Gk@Iu@AGAEAGAEAGCEAGCGACCGCEAECECEEECCCEe@s@uEgGs@cAU]OWMUGQGYA[@e@@QAO?M@I?IAEAGAEAA?AAACAIA[Ek@K"
+                         },
+                         "start_location": {
+                             "lat": -3.7528472,
+                             "lng": -38.4970653
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,2 km",
+                             "value": 172
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 28
+                         },
+                         "end_location": {
+                             "lat": -3.751654,
+                             "lng": -38.4906375
+                         },
+                         "html_instructions": "Continue para <b>R. Israel Bezerra</b>",
+                         "polyline": {
+                             "points": "`t{Un}|iFMIACCC?AAC?A?A?A@CR_AZuAPu@@E@C@CBA@?B?DAD?L?"
+                         },
+                         "start_location": {
+                             "lat": -3.7512135,
+                             "lng": -38.49191810000001
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "0,9 km",
+                             "value": 941
+                         },
+                         "duration": {
+                             "text": "3 minutos",
+                             "value": 168
+                         },
+                         "end_location": {
+                             "lat": -3.7578623,
+                             "lng": -38.4883985
+                         },
+                         "html_instructions": "Continue para <b>Av. Washington Soares</b>",
+                         "polyline": {
+                             "points": "xv{Unu|iFtAH@?n@HF@jCd@`ANrHz@jANvAN^D^@^@P?@?XCVEFABALCJEHILKHOLSHOHUHSJ[H]X{AZuARyAPgAVwA"
+                         },
+                         "start_location": {
+                             "lat": -3.751654,
+                             "lng": -38.4906375
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "14 m",
+                             "value": 14
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 28
+                         },
+                         "end_location": {
+                             "lat": -3.7577387,
+                             "lng": -38.4884125
+                         },
+                         "html_instructions": "Vire à <b>esquerda</b> na <b>Av. Coronel Miguel Dias</b><div style=\"font-size:0.9em\">Desça da bicicleta</div>",
+                         "maneuver": "turn-left",
+                         "polyline": {
+                             "points": "r}|Ung|iFW@"
+                         },
+                         "start_location": {
+                             "lat": -3.7578623,
+                             "lng": -38.4883985
+                         },
+                         "travel_mode": "BICYCLING"
+                     },
+                     {
+                         "distance": {
+                             "text": "7 m",
+                             "value": 7
+                         },
+                         "duration": {
+                             "text": "1 min",
+                             "value": 15
+                         },
+                         "end_location": {
+                             "lat": -3.7577516,
+                             "lng": -38.4883529
+                         },
+                         "html_instructions": "Vire à <b>direita</b> na <b>Av. Washington Soares</b><div style=\"font-size:0.9em\">Desça da bicicleta</div><div style=\"font-size:0.9em\">O destino estará à esquerda</div>",
+                         "maneuver": "turn-right",
+                         "polyline": {
+                             "points": "z||Upg|iF@K"
+                         },
+                         "start_location": {
+                             "lat": -3.7577387,
+                             "lng": -38.4884125
+                         },
+                         "travel_mode": "BICYCLING"
+                     }
+                 ],
+                 "traffic_speed_entry": [],
+                 "via_waypoint": []
+             }
+         ],
+         "overview_polyline": {
+             "points": "p}~U~y`jFQkAcAHqBTaDZqHv@[iD[iBq@}FBk@P]RGHIJWBa@ESIQYSWMOES?QBQHEFm@AK@[?wCs@sA[g@OSIc@_@IUKIu@_HMm@W{@Uc@]e@o@m@k@c@i@Wq@SmAQ{BEmFAaG@UMuAQuA]mAk@q@c@i@e@eAmA_HcJo@gAeAeC[wAa@cC[qBFGLExA[r@UHK?ICq@OqAAa@@OLW\\W^CnCSPERQDU[cDG[Wu@QUi@y@iGkIe@u@Ug@GYA[Bw@A]@SGUOGgAQOMEKTgAp@uCJEJAbBHdEp@`ANrHz@bD^pBHz@KPETOV[Vc@Ri@Ty@t@qDd@aDVwAW@@K"
+         },
+         "summary": "Av. Washington Soares",
+         "warnings": [
+             "Rotas de ciclismo são um recurso beta. Cuidado – Este trajeto pode ter ruas que não são adequadas para o ciclismo."
+         ],
+         "waypoint_order": [],
+         "segments": [
+             {
+                 "points": [
+                     [
+                         -3.76809,
+                         -38.51184
+                     ],
+                     [
+                         -3.768,
+                         -38.51146
+                     ],
+                     [
+                         -3.768,
+                         -38.51146
+                     ],
+                     [
+                         -3.76766,
+                         -38.51151
+                     ],
+                     [
+                         -3.76766,
+                         -38.51151
+                     ],
+                     [
+                         -3.76709,
+                         -38.51162
+                     ],
+                     [
+                         -3.76709,
+                         -38.51162
+                     ],
+                     [
+                         -3.7666850003937484,
+                         -38.51169000069743
+                     ],
+                     [
+                         -3.7666850003937484,
+                         -38.51169000069743
+                     ],
+                     [
+                         -3.76628,
+                         -38.51176
+                     ],
+                     [
+                         -3.76628,
+                         -38.51176
+                     ],
+                     [
+                         -3.7657700013222275,
+                         -38.511853335545176
+                     ],
+                     [
+                         -3.7657700013222275,
+                         -38.511853335545176
+                     ],
+                     [
+                         -3.7652600013222197,
+                         -38.511946668878515
+                     ],
+                     [
+                         -3.7652600013222197,
+                         -38.511946668878515
+                     ],
+                     [
+                         -3.76475,
+                         -38.51204
+                     ],
+                     [
+                         -3.76475,
+                         -38.51204
+                     ],
+                     [
+                         -3.7646799995868103,
+                         -38.51161500002083
+                     ],
+                     [
+                         -3.7646799995868103,
+                         -38.51161500002083
+                     ],
+                     [
+                         -3.76461,
+                         -38.51119
+                     ],
+                     [
+                         -3.76461,
+                         -38.51119
+                     ],
+                     [
+                         -3.76447,
+                         -38.51066
+                     ],
+                     [
+                         -3.76447,
+                         -38.51066
+                     ],
+                     [
+                         -3.764386665686789,
+                         -38.51023666672573
+                     ],
+                     [
+                         -3.764386665686789,
+                         -38.51023666672573
+                     ],
+                     [
+                         -3.7643033323534643,
+                         -38.50981333339239
+                     ],
+                     [
+                         -3.7643033323534643,
+                         -38.50981333339239
+                     ],
+                     [
+                         -3.76422,
+                         -38.50939
+                     ],
+                     [
+                         -3.76422,
+                         -38.50939
+                     ],
+                     [
+                         -3.76424,
+                         -38.50917
+                     ],
+                     [
+                         -3.76433,
+                         -38.50902
+                     ],
+                     [
+                         -3.76433,
+                         -38.50902
+                     ],
+                     [
+                         -3.76443,
+                         -38.50898
+                     ],
+                     [
+                         -3.76448,
+                         -38.50893
+                     ],
+                     [
+                         -3.76454,
+                         -38.50881
+                     ],
+                     [
+                         -3.76456,
+                         -38.50864
+                     ],
+                     [
+                         -3.76456,
+                         -38.50864
+                     ],
+                     [
+                         -3.76453,
+                         -38.50854
+                     ],
+                     [
+                         -3.76448,
+                         -38.50845
+                     ],
+                     [
+                         -3.76435,
+                         -38.50835
+                     ],
+                     [
+                         -3.76435,
+                         -38.50835
+                     ],
+                     [
+                         -3.76423,
+                         -38.50828
+                     ],
+                     [
+                         -3.76415,
+                         -38.50825
+                     ],
+                     [
+                         -3.76405,
+                         -38.50825
+                     ],
+                     [
+                         -3.76396,
+                         -38.50827
+                     ],
+                     [
+                         -3.76396,
+                         -38.50827
+                     ],
+                     [
+                         -3.76387,
+                         -38.50832
+                     ],
+                     [
+                         -3.76384,
+                         -38.50836
+                     ],
+                     [
+                         -3.76361,
+                         -38.50835
+                     ],
+                     [
+                         -3.76361,
+                         -38.50835
+                     ],
+                     [
+                         -3.76355,
+                         -38.50836
+                     ],
+                     [
+                         -3.76341,
+                         -38.50836
+                     ],
+                     [
+                         -3.7631299991667753,
+                         -38.508225000979614
+                     ],
+                     [
+                         -3.7631299991667753,
+                         -38.508225000979614
+                     ],
+                     [
+                         -3.76265,
+                         -38.5081
+                     ],
+                     [
+                         -3.76265,
+                         -38.5081
+                     ],
+                     [
+                         -3.76223,
+                         -38.50796
+                     ],
+                     [
+                         -3.76223,
+                         -38.50796
+                     ],
+                     [
+                         -3.76203,
+                         -38.50788
+                     ],
+                     [
+                         -3.76193,
+                         -38.50783
+                     ],
+                     [
+                         -3.76175,
+                         -38.50767
+                     ],
+                     [
+                         -3.76175,
+                         -38.50767
+                     ],
+                     [
+                         -3.7617,
+                         -38.50756
+                     ],
+                     [
+                         -3.76164,
+                         -38.50751
+                     ],
+                     [
+                         -3.7616549984169376,
+                         -38.50727000011513
+                     ],
+                     [
+                         -3.7616549984169376,
+                         -38.50727000011513
+                     ],
+                     [
+                         -3.761559997889268,
+                         -38.50687000015349
+                     ],
+                     [
+                         -3.761559997889268,
+                         -38.50687000015349
+                     ],
+                     [
+                         -3.761464998416964,
+                         -38.506470000115115
+                     ],
+                     [
+                         -3.761464998416964,
+                         -38.506470000115115
+                     ],
+                     [
+                         -3.76137,
+                         -38.50607
+                     ],
+                     [
+                         -3.76137,
+                         -38.50607
+                     ],
+                     [
+                         -3.7613,
+                         -38.50584
+                     ],
+                     [
+                         -3.76118,
+                         -38.50554
+                     ],
+                     [
+                         -3.76118,
+                         -38.50554
+                     ],
+                     [
+                         -3.76107,
+                         -38.50536
+                     ],
+                     [
+                         -3.76092,
+                         -38.50517
+                     ],
+                     [
+                         -3.76092,
+                         -38.50517
+                     ],
+                     [
+                         -3.76068,
+                         -38.50494
+                     ],
+                     [
+                         -3.76068,
+                         -38.50494
+                     ],
+                     [
+                         -3.76046,
+                         -38.50476
+                     ],
+                     [
+                         -3.76025,
+                         -38.50464
+                     ],
+                     [
+                         -3.76025,
+                         -38.50464
+                     ],
+                     [
+                         -3.76,
+                         -38.50454
+                     ],
+                     [
+                         -3.75961,
+                         -38.50445
+                     ],
+                     [
+                         -3.75961,
+                         -38.50445
+                     ],
+                     [
+                         -3.75899,
+                         -38.50442
+                     ],
+                     [
+                         -3.75899,
+                         -38.50442
+                     ],
+                     [
+                         -3.7583949999586914,
+                         -38.50441500150519
+                     ],
+                     [
+                         -3.7583949999586914,
+                         -38.50441500150519
+                     ],
+                     [
+                         -3.7578,
+                         -38.50441
+                     ],
+                     [
+                         -3.7578,
+                         -38.50441
+                     ],
+                     [
+                         -3.7571550000447793,
+                         -38.5044150017688
+                     ],
+                     [
+                         -3.7571550000447793,
+                         -38.5044150017688
+                     ],
+                     [
+                         -3.75651,
+                         -38.50442
+                     ],
+                     [
+                         -3.75651,
+                         -38.50442
+                     ],
+                     [
+                         -3.7564,
+                         -38.50435
+                     ],
+                     [
+                         -3.75597,
+                         -38.50426
+                     ],
+                     [
+                         -3.75597,
+                         -38.50426
+                     ],
+                     [
+                         -3.75554,
+                         -38.50411
+                     ],
+                     [
+                         -3.75554,
+                         -38.50411
+                     ],
+                     [
+                         -3.75515,
+                         -38.50389
+                     ],
+                     [
+                         -3.75515,
+                         -38.50389
+                     ],
+                     [
+                         -3.7549,
+                         -38.50371
+                     ],
+                     [
+                         -3.75469,
+                         -38.50352
+                     ],
+                     [
+                         -3.75469,
+                         -38.50352
+                     ],
+                     [
+                         -3.75434,
+                         -38.50313
+                     ],
+                     [
+                         -3.75434,
+                         -38.50313
+                     ],
+                     [
+                         -3.7539799933272495,
+                         -38.502685001653035
+                     ],
+                     [
+                         -3.7539799933272495,
+                         -38.502685001653035
+                     ],
+                     [
+                         -3.7536199911030756,
+                         -38.50224000220402
+                     ],
+                     [
+                         -3.7536199911030756,
+                         -38.50224000220402
+                     ],
+                     [
+                         -3.753259993327364,
+                         -38.501795001653
+                     ],
+                     [
+                         -3.753259993327364,
+                         -38.501795001653
+                     ],
+                     [
+                         -3.7529,
+                         -38.50135
+                     ],
+                     [
+                         -3.7529,
+                         -38.50135
+                     ],
+                     [
+                         -3.75266,
+                         -38.50099
+                     ],
+                     [
+                         -3.75266,
+                         -38.50099
+                     ],
+                     [
+                         -3.752484999186091,
+                         -38.500655000130195
+                     ],
+                     [
+                         -3.752484999186091,
+                         -38.500655000130195
+                     ],
+                     [
+                         -3.75231,
+                         -38.50032
+                     ],
+                     [
+                         -3.75231,
+                         -38.50032
+                     ],
+                     [
+                         -3.75217,
+                         -38.49988
+                     ],
+                     [
+                         -3.75217,
+                         -38.49988
+                     ],
+                     [
+                         -3.7520849996105894,
+                         -38.499550000030716
+                     ],
+                     [
+                         -3.7520849996105894,
+                         -38.499550000030716
+                     ],
+                     [
+                         -3.752,
+                         -38.49922
+                     ],
+                     [
+                         -3.752,
+                         -38.49922
+                     ],
+                     [
+                         -3.75186,
+                         -38.49865
+                     ],
+                     [
+                         -3.75186,
+                         -38.49865
+                     ],
+                     [
+                         -3.7519,
+                         -38.49861
+                     ],
+                     [
+                         -3.75197,
+                         -38.49858
+                     ],
+                     [
+                         -3.75242,
+                         -38.49844
+                     ],
+                     [
+                         -3.75242,
+                         -38.49844
+                     ],
+                     [
+                         -3.75268,
+                         -38.49833
+                     ],
+                     [
+                         -3.75273,
+                         -38.49827
+                     ],
+                     [
+                         -3.75273,
+                         -38.49827
+                     ],
+                     [
+                         -3.75273,
+                         -38.49822
+                     ],
+                     [
+                         -3.75271,
+                         -38.49797
+                     ],
+                     [
+                         -3.75271,
+                         -38.49797
+                     ],
+                     [
+                         -3.75263,
+                         -38.49756
+                     ],
+                     [
+                         -3.75263,
+                         -38.49756
+                     ],
+                     [
+                         -3.75262,
+                         -38.49739
+                     ],
+                     [
+                         -3.75263,
+                         -38.49731
+                     ],
+                     [
+                         -3.7527,
+                         -38.49719
+                     ],
+                     [
+                         -3.7527,
+                         -38.49719
+                     ],
+                     [
+                         -3.75285,
+                         -38.49707
+                     ],
+                     [
+                         -3.75301,
+                         -38.49705
+                     ],
+                     [
+                         -3.75301,
+                         -38.49705
+                     ],
+                     [
+                         -3.75373,
+                         -38.49695
+                     ],
+                     [
+                         -3.75373,
+                         -38.49695
+                     ],
+                     [
+                         -3.75382,
+                         -38.49692
+                     ],
+                     [
+                         -3.75392,
+                         -38.49683
+                     ],
+                     [
+                         -3.75395,
+                         -38.49672
+                     ],
+                     [
+                         -3.75395,
+                         -38.49672
+                     ],
+                     [
+                         -3.753879999601611,
+                         -38.49631000002083
+                     ],
+                     [
+                         -3.753879999601611,
+                         -38.49631000002083
+                     ],
+                     [
+                         -3.75381,
+                         -38.4959
+                     ],
+                     [
+                         -3.75381,
+                         -38.4959
+                     ],
+                     [
+                         -3.75377,
+                         -38.49576
+                     ],
+                     [
+                         -3.75365,
+                         -38.49549
+                     ],
+                     [
+                         -3.75365,
+                         -38.49549
+                     ],
+                     [
+                         -3.75356,
+                         -38.49538
+                     ],
+                     [
+                         -3.75335,
+                         -38.49509
+                     ],
+                     [
+                         -3.75335,
+                         -38.49509
+                     ],
+                     [
+                         -3.753017494254103,
+                         -38.49467500141003
+                     ],
+                     [
+                         -3.753017494254103,
+                         -38.49467500141003
+                     ],
+                     [
+                         -3.752684992338866,
+                         -38.49426000188002
+                     ],
+                     [
+                         -3.752684992338866,
+                         -38.49426000188002
+                     ],
+                     [
+                         -3.752352494254196,
+                         -38.49384500141
+                     ],
+                     [
+                         -3.752352494254196,
+                         -38.49384500141
+                     ],
+                     [
+                         -3.75202,
+                         -38.49343
+                     ],
+                     [
+                         -3.75202,
+                         -38.49343
+                     ],
+                     [
+                         -3.75183,
+                         -38.49316
+                     ],
+                     [
+                         -3.75183,
+                         -38.49316
+                     ],
+                     [
+                         -3.75172,
+                         -38.49296
+                     ],
+                     [
+                         -3.75168,
+                         -38.49283
+                     ],
+                     [
+                         -3.75168,
+                         -38.49283
+                     ],
+                     [
+                         -3.75167,
+                         -38.49269
+                     ],
+                     [
+                         -3.75169,
+                         -38.49241
+                     ],
+                     [
+                         -3.75169,
+                         -38.49241
+                     ],
+                     [
+                         -3.75168,
+                         -38.49226
+                     ],
+                     [
+                         -3.75169,
+                         -38.49216
+                     ],
+                     [
+                         -3.75165,
+                         -38.49205
+                     ],
+                     [
+                         -3.75165,
+                         -38.49205
+                     ],
+                     [
+                         -3.75157,
+                         -38.49201
+                     ],
+                     [
+                         -3.75121,
+                         -38.49192
+                     ],
+                     [
+                         -3.75121,
+                         -38.49192
+                     ],
+                     [
+                         -3.75113,
+                         -38.49185
+                     ],
+                     [
+                         -3.7511,
+                         -38.49179
+                     ],
+                     [
+                         -3.75121,
+                         -38.49143
+                     ],
+                     [
+                         -3.75121,
+                         -38.49143
+                     ],
+                     [
+                         -3.7513350006505566,
+                         -38.49105500006642
+                     ],
+                     [
+                         -3.7513350006505566,
+                         -38.49105500006642
+                     ],
+                     [
+                         -3.75146,
+                         -38.49068
+                     ],
+                     [
+                         -3.75146,
+                         -38.49068
+                     ],
+                     [
+                         -3.75152,
+                         -38.49065
+                     ],
+                     [
+                         -3.75158,
+                         -38.49064
+                     ],
+                     [
+                         -3.75208,
+                         -38.49069
+                     ],
+                     [
+                         -3.75208,
+                         -38.49069
+                     ],
+                     [
+                         -3.752574999141273,
+                         -38.490815001041646
+                     ],
+                     [
+                         -3.752574999141273,
+                         -38.490815001041646
+                     ],
+                     [
+                         -3.75307,
+                         -38.49094
+                     ],
+                     [
+                         -3.75307,
+                         -38.49094
+                     ],
+                     [
+                         -3.7534,
+                         -38.49102
+                     ],
+                     [
+                         -3.7534,
+                         -38.49102
+                     ],
+                     [
+                         -3.7539133319084614,
+                         -38.49112000224047
+                     ],
+                     [
+                         -3.7539133319084614,
+                         -38.49112000224047
+                     ],
+                     [
+                         -3.7544266652418026,
+                         -38.491220002240475
+                     ],
+                     [
+                         -3.7544266652418026,
+                         -38.491220002240475
+                     ],
+                     [
+                         -3.75494,
+                         -38.49132
+                     ],
+                     [
+                         -3.75494,
+                         -38.49132
+                     ],
+                     [
+                         -3.7553499995447788,
+                         -38.491400000714634
+                     ],
+                     [
+                         -3.7553499995447788,
+                         -38.491400000714634
+                     ],
+                     [
+                         -3.75576,
+                         -38.49148
+                     ],
+                     [
+                         -3.75576,
+                         -38.49148
+                     ],
+                     [
+                         -3.75633,
+                         -38.49153
+                     ],
+                     [
+                         -3.75633,
+                         -38.49153
+                     ],
+                     [
+                         -3.75663,
+                         -38.49147
+                     ],
+                     [
+                         -3.75672,
+                         -38.49144
+                     ],
+                     [
+                         -3.75672,
+                         -38.49144
+                     ],
+                     [
+                         -3.75683,
+                         -38.49136
+                     ],
+                     [
+                         -3.75695,
+                         -38.49122
+                     ],
+                     [
+                         -3.75695,
+                         -38.49122
+                     ],
+                     [
+                         -3.75707,
+                         -38.49104
+                     ],
+                     [
+                         -3.75717,
+                         -38.49083
+                     ],
+                     [
+                         -3.75717,
+                         -38.49083
+                     ],
+                     [
+                         -3.75728,
+                         -38.49054
+                     ],
+                     [
+                         -3.75728,
+                         -38.49054
+                     ],
+                     [
+                         -3.7574150008337233,
+                         -38.49009500007748
+                     ],
+                     [
+                         -3.7574150008337233,
+                         -38.49009500007748
+                     ],
+                     [
+                         -3.75755,
+                         -38.48965
+                     ],
+                     [
+                         -3.75755,
+                         -38.48965
+                     ],
+                     [
+                         -3.757645000533943,
+                         -38.489245000038366
+                     ],
+                     [
+                         -3.757645000533943,
+                         -38.489245000038366
+                     ],
+                     [
+                         -3.75774,
+                         -38.48884
+                     ],
+                     [
+                         -3.75774,
+                         -38.48884
+                     ],
+                     [
+                         -3.75786,
+                         -38.4884
+                     ],
+                     [
+                         -3.75774,
+                         -38.48841
+                     ],
+                     [
+                         -3.75775,
+                         -38.48835
+                     ]
+                 ],
+                 "polyline": {
+                     "points": "p}~U~y`jFQkA??cAH??qBT??oAL??qAL??eBP??eBR??eBP??MsA??MuA??[iB??OsA??QuA??OsA??Bk@P]??RGHIJWBa@??ESIQYS??WMOES?QB??QHEFm@A??K@[?w@Y??_BY??sA[??g@OSIc@_@??IUKI@o@??QoA??SoA??QoA??Mm@W{@??Uc@]e@??o@m@??k@c@i@W??q@SmAQ??{BE??wB???uBA??_C@??aC???UMuAQ??uA]??mAk@??q@c@i@e@??eAmA??gAwA??gAyA??gAwA??gAyA??o@gA??c@aA??a@cA??[wA??QaA??OaA??[qB??FGLExA[??r@UHK???ICq@??OqA??Aa@@OLW??\\W^C??nCS??PERQDU??MqA??MqA??G[Wu@??QUi@y@??aAqA??cAsA??aAqA??aAsA??e@u@??Ug@GY??A[Bw@??A]@SGU??OGgAQ??OMEKTgA??XiA??VkA??JEJAbBH??`BX??bBV??`AN??dBR??fBR??dBR??pAN??pAN??pBH??z@KPE??TOV[??Vc@Ri@??Ty@??ZwA??XyA??RoA??PqA??VwAW@@K"
+                 },
+                 "safeIndex": 0,
+                 "area_critica": 0,
+                 "ocorrencia_perigosa": 0,
+                 "fluxo_ciclista": 0,
+                 "luminosidade": 0,
+                 "condicao_via": 0
+             }
+         ],
+         "safeIndexDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "area_criticaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "ocorrencia_perigosaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "fluxo_ciclistaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "luminosidadeDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "condicao_viaDetails": {
+             "max": 0,
+             "min": 0,
+             "sum": 0,
+             "mean": 0,
+             "median": 0,
+             "stdev": 0,
+             "variance": 0,
+             "geomean": 0,
+             "mode": 0,
+             "q1": 0,
+             "q2": 0,
+             "q3": 0
+         },
+         "safeIndex": 0
+     }
+ ],
+ "status": "OK"
+}
